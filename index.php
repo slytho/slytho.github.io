@@ -1,0 +1,4 @@
+bzzzzz
+<?php
+echo "ahoj";
+?>
