@@ -1,4 +1,0 @@
-bzzzzz
-<?php
-echo "ahoj";
-?>
